@@ -5,6 +5,10 @@ Commit di branch kedua
 Commit di branch ketiga
 
 ====================================
+Commit ini dilakukan di Fitur 2 yang baru
+- Commit Pertama
+
 Ini adalah commit yang dilakukan di Fitur 1
 - Commit Pertama
 - Commit Kedua
+
